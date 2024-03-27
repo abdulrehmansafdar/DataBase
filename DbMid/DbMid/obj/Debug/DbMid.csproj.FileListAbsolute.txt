@@ -1,0 +1,17 @@
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\bin\Debug\DbMid.exe.config
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\bin\Debug\DbMid.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\bin\Debug\DbMid.pdb
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.csproj.AssemblyReference.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Form1.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Properties.Resources.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.csproj.GenerateResource.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.csproj.CoreCompileInputs.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.pdb
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.CLOForm.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Rubric.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Assessment.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Attendence.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.RubricLevel.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.AssessmentComponent.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbMid\DbMid\obj\Debug\DbMid.Result.resources
