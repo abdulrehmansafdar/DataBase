@@ -1,0 +1,20 @@
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\bin\Debug\CLOMisyafa.exe.config
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\bin\Debug\CLOMisyafa.exe
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\bin\Debug\CLOMisyafa.pdb
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.AssemblyReference.cache
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.Properties.Resources.resources
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.GenerateResource.cache
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.CoreCompileInputs.cache
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.exe
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.pdb
+C:\Users\musno\OneDrive\Desktop\CLOMisyafa\CLOMisyafa\obj\Debug\CLOMisyafa.Form1.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\bin\Debug\CLOMisyafa.exe.config
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\bin\Debug\CLOMisyafa.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\bin\Debug\CLOMisyafa.pdb
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.AssemblyReference.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.Form1.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.Properties.Resources.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.GenerateResource.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.csproj.CoreCompileInputs.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\clo\CLOMisyafa\obj\Debug\CLOMisyafa.pdb
